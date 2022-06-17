@@ -1,6 +1,8 @@
 #  Sleepy - Addiction Controller 
 A simple yet brilliant Phone Addiction Reducer and Phone Addiction Controller app for your Android Smartphone
 
+![Sleepy - Addiction Controller](https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180)
+
 So many people in this current world are searching the apps to cure their phone addiction. But most of the apps just focus on phone addiction tracking rather than phone addiction reducing. Many apps also focus on phone addiction habit rather than phone addiction curing. With Sleepy - Phone Addiction Controller, you can control, reduce and cure your phone addiction.
 
 Researchers say, Smartphone addiction may cause so many fatal disease. So, if you have smaphone addiction, you should cure your smaphone addiction for your own good. Sleepy - Phone Addiction Controller can help you with that.
@@ -38,9 +40,9 @@ If you like the app, please share it with your friends and family.
 ![Download links](https://github.com/p32929/my_android_apps/releases)
 
 # Screenshots
-![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMF8xNTU5NTQ5MjA1XzAzMA/screen-0.jpg?h=355&fakeurl=1&type=.webp)
-![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMV8xNTU5NTQ5MjA2XzAwOQ/screen-1.jpg?h=355&fakeurl=1&type=.webp)
-![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMl8xNTU5NTQ5MjA2XzA2Nw/screen-2.jpg?h=355&fakeurl=1&type=.webp)
-![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fM18xNTU5NTQ5MjA3XzAyOA/screen-3.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMF8xNTU5NTQ5MjA1XzAzMA/screen-0.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMV8xNTU5NTQ5MjA2XzAwOQ/screen-1.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMl8xNTU5NTQ5MjA2XzA2Nw/screen-2.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fM18xNTU5NTQ5MjA3XzAyOA/screen-3.jpg?h=355&fakeurl=1&type=.webp)
 
 # Keywords
