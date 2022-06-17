@@ -6,9 +6,9 @@ We had Google Play account but Google has terminated our account without giving 
 So, here we are...
 
 ## App list
-* CGPA Calculator
-* Sleepy - Addiction controller
-* Tzuyu Birthday
+* ![CGPA Calculator](https://github.com/p32929/my_android_apps/cgpa_calculator.md)
+* ![Sleepy - Addiction controller](https://github.com/p32929/my_android_apps/sleepy_addiction_controller.md)
+* ![Tzuyu Birthday](https://github.com/p32929/my_android_apps/tzuyu_birthday.md)
 * More links ( Coming soon )
 
 ## Buy source codes
