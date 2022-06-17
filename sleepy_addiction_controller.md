@@ -4,7 +4,7 @@ A simple yet brilliant Phone Addiction Reducer and Phone Addiction Controller ap
 ![Sleepy - Addiction Controller](https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180)
 
 # Download
-![Download links](https://tiny.cc/richapps)
+![Download from here](https://tiny.cc/richapps)
 
 # More details
 So many people in this current world are searching the apps to cure their phone addiction. But most of the apps just focus on phone addiction tracking rather than phone addiction reducing. Many apps also focus on phone addiction habit rather than phone addiction curing. With Sleepy - Phone Addiction Controller, you can control, reduce and cure your phone addiction.

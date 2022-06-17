@@ -1,5 +1,5 @@
 ## Rich Android Apps
-This repository contains all the download links of the Android Apps we have created so far.
+This repository contains all the Download from here of the Android Apps we have created so far.
 
 ## Why not Google Play?
 We had Google Play account but Google has terminated our account without giving any explanations. We've tried to contact them through email, phones and so on. but they never responded.
