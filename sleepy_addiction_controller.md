@@ -6,6 +6,12 @@ A simple yet brilliant Phone Addiction Reducer and Phone Addiction Controller ap
 # Download
 ![Download links](https://github.com/p32929/my_android_apps/releases)
 
+# Screenshots
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMF8xNTU5NTQ5MjA1XzAzMA/screen-0.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMV8xNTU5NTQ5MjA2XzAwOQ/screen-1.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMl8xNTU5NTQ5MjA2XzA2Nw/screen-2.jpg?h=355&fakeurl=1&type=.webp)
+![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fM18xNTU5NTQ5MjA3XzAyOA/screen-3.jpg?h=355&fakeurl=1&type=.webp)
+
 # More details
 So many people in this current world are searching the apps to cure their phone addiction. But most of the apps just focus on phone addiction tracking rather than phone addiction reducing. Many apps also focus on phone addiction habit rather than phone addiction curing. With Sleepy - Phone Addiction Controller, you can control, reduce and cure your phone addiction.
 
@@ -39,15 +45,6 @@ Please, do NOT rate 1 star just because you do not know how to uninstall the app
 👍👍👍👍👍
 Thank you for using Sleepy - Phone Addiction Controller.
 If you like the app, please share it with your friends and family.
-
-# Screenshots
-![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMF8xNTU5NTQ5MjA1XzAzMA/screen-0.jpg?h=355&fakeurl=1&type=.webp)
-![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMV8xNTU5NTQ5MjA2XzAwOQ/screen-1.jpg?h=355&fakeurl=1&type=.webp)
-![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMl8xNTU5NTQ5MjA2XzA2Nw/screen-2.jpg?h=355&fakeurl=1&type=.webp)
-![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fM18xNTU5NTQ5MjA3XzAyOA/screen-3.jpg?h=355&fakeurl=1&type=.webp)
-
-# Download
-![Download links](https://github.com/p32929/my_android_apps/releases)
 
 # Keywords
 Coming soon
