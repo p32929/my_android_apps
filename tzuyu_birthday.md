@@ -2,7 +2,7 @@
 A simple birthday wishing bot made by me for Tzyty
 
 # Download
-![Tzuyu Birthday](http://tiny.cc/richapps)
+![Download links](http://tiny.cc/richapps)
 
 # Screenshots
 Coming soon

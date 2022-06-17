@@ -1,7 +1,7 @@
 # CGPA Calculator
 A simple yet effective CGPA Calculator for University students. it is a faster & easier app to calculate CGPA in your android phone...
 
-![CGPA Calculator](http://tiny.cc/richapps)
+![CGPA Calculator](https://lh3.googleusercontent.com/trpGkuBRWnBXNDNyts-7ePwmPtTLQ_8pKoMWi-6Iy8eBomjZ8XrVi4zQcEWrmoGLKA=s180)
 
 # Features of this app:
 * Simple UI
