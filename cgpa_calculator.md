@@ -13,7 +13,7 @@ A simple yet effective CGPA Calculator for University students. it is a faster &
 * More features are on the way...
 
 # Download
-![Download links](https://tiny.cc/richapps)
+![Download links](https://github.com/p32929/my_android_apps/releases)
 
 # Screenshots
 ![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzBfMTU3MTg0Nzk1MV8wNDg/screen-0.jpg?h=355&fakeurl=1&type=.webp)
@@ -23,7 +23,7 @@ A simple yet effective CGPA Calculator for University students. it is a faster &
 ![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzRfMTU3MTg0Nzk1NF8wNDc/screen-4.jpg?h=355&fakeurl=1&type=.webp)
 
 # Download
-![Download links](https://tiny.cc/richapps)
+![Download links](https://github.com/p32929/my_android_apps/releases)
 
 # Keywords
 Coming soon
