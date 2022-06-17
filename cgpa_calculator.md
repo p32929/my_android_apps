@@ -16,10 +16,10 @@ A simple yet effective CGPA Calculator for University students. it is a faster &
 Download link(s)
 
 # Screenshots
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzBfMTU3MTg0Nzk1MV8wNDg/screen-0.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzFfMTU3MTg0Nzk1Ml8wNTA/screen-1.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzJfMTU3MTg0Nzk1M18wMzM/screen-2.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzNfMTU3MTg0Nzk1M18wNTI/screen-3.jpg?h=355&fakeurl=1&type=.webp
-https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzRfMTU3MTg0Nzk1NF8wNDc/screen-4.jpg?h=355&fakeurl=1&type=.webp
+![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzBfMTU3MTg0Nzk1MV8wNDg/screen-0.jpg?h=355&fakeurl=1&type=.webp)
+![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzFfMTU3MTg0Nzk1Ml8wNTA/screen-1.jpg?h=355&fakeurl=1&type=.webp)
+![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzJfMTU3MTg0Nzk1M18wMzM/screen-2.jpg?h=355&fakeurl=1&type=.webp)
+![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzNfMTU3MTg0Nzk1M18wNTI/screen-3.jpg?h=355&fakeurl=1&type=.webp)
+![CGPA Calculator](https://image.winudf.com/v2/image1/cDMyOTI5LmNncGFfY2FsY3VsYXRvcjJfc2NyZWVuXzRfMTU3MTg0Nzk1NF8wNDc/screen-4.jpg?h=355&fakeurl=1&type=.webp)
 
 # Keywords
