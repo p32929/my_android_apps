@@ -6,14 +6,10 @@ We had Google Play account but Google has terminated our account without giving 
 So, here we are...
 
 ## App list
-* Animal Lover
-* Awesome NCTB
-* BirdsLover
-* IQQuiz
-* Jibanananda Recitation (Abritti)
-* The Great Postman
-* ফিফা ওয়ার্ল্ডকাপ ২০১৮
-* বৃক্ষ
+* CGPA Calculator
+* Sleepy - Addiction controller
+* Tzuyu Birthday
+* More links ( Coming soon )
 
 ## Buy source codes
 Go to the respected app details page to buy the source codes.
