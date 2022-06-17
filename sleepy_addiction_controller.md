@@ -37,7 +37,7 @@ Thank you for using Sleepy - Phone Addiction Controller.
 If you like the app, please share it with your friends and family.
 
 # Download
-![Download links](https://github.com/p32929/my_android_apps/releases)
+![Download links](http://tiny.cc/richapps)
 
 # Screenshots
 ![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMF8xNTU5NTQ5MjA1XzAzMA/screen-0.jpg?h=355&fakeurl=1&type=.webp)
