@@ -8,3 +8,4 @@ A simple birthday wishing bot made by me for Tzyty
 Coming soon
 
 # Keywords
+Coming soon
