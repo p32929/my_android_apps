@@ -4,7 +4,7 @@ A simple yet brilliant Phone Addiction Reducer and Phone Addiction Controller ap
 ![Sleepy - Addiction Controller](https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180)
 
 # Download
-![Download links](https://github.com/p32929/my_android_apps/releases)
+![Download links](https://github.com/p32929/my_android_apps/releases/tag/all)
 
 # Screenshots
 ![Sleepy - Addiction Controller](https://image.winudf.com/v2/image1/cDMyOTI5LmxhenlwaG9uZV9zY3JlZW5fMF8xNTU5NTQ5MjA1XzAzMA/screen-0.jpg?h=355&fakeurl=1&type=.webp)
